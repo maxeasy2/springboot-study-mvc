@@ -43,4 +43,12 @@ public class SampleControllerTest {
         HtmlHeading1 h1 = page.getFirstByXPath("//h1");
         assertThat(h1.getTextContent()).isEqualToIgnoringCase("sample");
     }
+
+    @Test
+    public void hateoasTest() throws Exception{
+        mockMvc.perform(get("/hateoas"))
+                .andDo(print())
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$._links.self").exists());
+    }
 }

@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="9cc9e216-f3e2-4011-9541-c9e3d91dc443" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mir/app/springbootstudy/SampleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mir/app/springbootstudy/SampleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/mir/app/springbootstudy/SampleControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mir/app/springbootstudy/SampleControllerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/mir/app/springbootstudy/SampleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mir/app/springbootstudy/SampleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mir/app/springbootstudy/SampleControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/mir/app/springbootstudy/SampleControllerTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,7 +56,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringbootStudyApplication">
+  <component name="RunManager" selected="JUnit.SampleControllerTest.hateoasTest">
+    <configuration name="SampleControllerTest.hateoasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mir.app.springbootstudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mir.app.springbootstudy" />
+      <option name="MAIN_CLASS_NAME" value="com.mir.app.springbootstudy.SampleControllerTest" />
+      <option name="METHOD_NAME" value="hateoasTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SampleControllerTest.sampleViewTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot-study" />
       <extension name="coverage">
@@ -95,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SampleControllerTest.hateoasTest" />
         <item itemvalue="JUnit.SampleControllerTest.sampleViewTestForHtmlUnit" />
         <item itemvalue="JUnit.SampleControllerTest.sampleViewTest" />
       </list>
