@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9cc9e216-f3e2-4011-9541-c9e3d91dc443" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/mir/app/springbootstudy/SampleControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mir/app/springbootstudy/SampleControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mir/app/springbootstudy/SampleControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/mir/app/springbootstudy/SampleControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mir/app/springbootstudy/SampleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mir/app/springbootstudy/SampleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mir/app/springbootstudy/SampleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mir/app/springbootstudy/SampleController.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +34,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/error" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\develop\workspace\study\springboot-study\src\main\resources\static\error" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -49,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SampleControllerTest.sampleViewTestForHtmlUnit">
+  <component name="RunManager" selected="Spring Boot.SpringbootStudyApplication">
     <configuration name="SampleControllerTest.sampleViewTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot-study" />
       <extension name="coverage">
