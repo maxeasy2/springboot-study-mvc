@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cc9e216-f3e2-4011-9541-c9e3d91dc443" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/mir/app/springbootstudy/SampleControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mir/app/springbootstudy/SampleControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mir/app/springbootstudy/SampleControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/mir/app/springbootstudy/SampleControllerTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringbootStudyApplication">
+  <component name="RunManager" selected="JUnit.SampleControllerTest.sampleViewTestForHtmlUnit">
     <configuration name="SampleControllerTest.sampleViewTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot-study" />
       <extension name="coverage">
@@ -68,6 +66,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SampleControllerTest.sampleViewTestForHtmlUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mir.app.springbootstudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mir.app.springbootstudy" />
+      <option name="MAIN_CLASS_NAME" value="com.mir.app.springbootstudy.SampleControllerTest" />
+      <option name="METHOD_NAME" value="sampleViewTestForHtmlUnit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringbootStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-study" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.mir.app.springbootstudy.SpringbootStudyApplication" />
@@ -77,6 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SampleControllerTest.sampleViewTestForHtmlUnit" />
         <item itemvalue="JUnit.SampleControllerTest.sampleViewTest" />
       </list>
     </recent_temporary>
